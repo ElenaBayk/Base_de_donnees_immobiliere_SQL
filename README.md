@@ -16,11 +16,11 @@
  Laplace Immo - un réseau national d’agences immobilières
  
 
-✅`**Mission :**`
+✅`Mission :`
 
 Créer une base de  données et analyser le marché afin d'aider les différentes agences régionales à mieux accompagner leurs clients.
 
-✅`**Les requêtes:**`
+✅`Les requêtes:`
 
 
 1. Dictionnaire des données.
@@ -30,7 +30,7 @@ d’écran directement du système de gestion de base de données des tables
 construites).
 4. Document avec les requêtes et les résultats (PDF)
 
-✅`**Compétences **`
+✅`Compétences:`
 - Effectuer des requêtes SQL pour répondre à une problématique métier
 - Créer des tables dans une base de données
 - Charger des données dans une base de données
