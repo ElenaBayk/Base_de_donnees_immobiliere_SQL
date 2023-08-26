@@ -1,9 +1,10 @@
-# Création et utilisation d'une base de données immobilière  `SQL`
+# Création et utilisation d'une base de données immobilière <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>
 
  La création de la base de données permettant de collecter les transactions immobilières et foncières en France.
 
 > Projet  a l'origine d'`Openclassrooms formation "Data analyst"`.  <br> <br>
-![image](https://github.com/ElenaBayk/Base_de_donnees_immobiliere_SQL/assets/141257192/ffe2e31f-af09-4cf1-acb2-3f44e72ad804)
+![image](https://github.com/ElenaBayk/Base_de_donnees_immobiliere_SQL/assets/141257192/608c450b-6067-4dd3-bbf2-87b950ee7644)
+
 
 
 
