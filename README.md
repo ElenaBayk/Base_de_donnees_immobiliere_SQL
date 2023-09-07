@@ -24,7 +24,7 @@ Créer une base de  données et analyser le marché afin d'aider les différente
 ✅`Les requêtes:`
 
 
-1. Dictionnaire des données.
+1. Dictionnaire des données
 2. Schéma relationnel normalisé modifié.
 3. Base de données opérationnelle avec les données du 1er semestre 2020 (captures
 d’écran directement du système de gestion de base de données des tables
@@ -32,10 +32,15 @@ construites).
 4. Document avec les requêtes et les résultats (PDF)
 
 ✅`Compétences:`
+
+-	Extraire les données nécessaires à l’analyse<br>
+-	Définir des règles de gestion de nettoyage des bases de données (formatage, suppression des doublons…)<br>
+-	Définir des règles de gestion de structuration des différentes bases de données entre elles<br>
+-	Écrire et rédiger les spécifications d’automatisation des règles de gestion à la direction des systèmes d’information ou à la maîtrise d’ouvrage<br>
+-	Maîtriser la qualité des données tout au long de leur traitement<br>
+
 - Effectuer des requêtes SQL pour répondre à une problématique métier
 - Créer des tables dans une base de données
-- Charger des données dans une base de données
-- Mettre à jour un catalogue de données
 - Créer le schéma d'une base de données
 
 
