@@ -35,9 +35,7 @@ construites).
 
 -	Extraire les données nécessaires à l’analyse<br>
 -	Définir des règles de gestion de nettoyage des bases de données (formatage, suppression des doublons…)<br>
--	Écrire et rédiger les spécifications d’automatisation des règles de gestion à la direction des systèmes d’information ou à la maîtrise d’ouvrage<br>
 -	Maîtriser la qualité des données tout au long de leur traitement<br>
-
 - Effectuer des requêtes SQL pour répondre à une problématique métier
 - Créer des tables dans une base de données
 - Créer le schéma d'une base de données
