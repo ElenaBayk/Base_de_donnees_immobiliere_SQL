@@ -1,5 +1,4 @@
-# Création et utilisation d'une base de données immobilière <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>
-
+# Création et utilisation d'une base de données immobilière <a href="https://www.sqlite.org/index.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="Git" height="50" /></a>
  La création de la base de données permettant de collecter les transactions immobilières et foncières en France.
 
 > Projet  a l'origine d'`Openclassrooms formation "Data analyst"`.  <br> <br>
